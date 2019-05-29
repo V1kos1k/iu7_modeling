@@ -1,2 +1,6 @@
 .DS_Store
 .idea
+*.exe
+*.o
+*.dSYM/
+__pycache__/
